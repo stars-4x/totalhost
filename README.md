@@ -1,3 +1,6 @@
+THIS IS NOW VERY OUT OF DATE. See the official repository: https://github.com/ricks03/TotalHost
+
+
 # totalhost
 The GitHub respository for TotalHost, with more current versions and an extended list of associated utilities, are at https://github.com/ricks03/TotalHost
 
